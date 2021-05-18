@@ -1,0 +1,40 @@
+body{
+text-align: center;
+font-size:  26px;
+font-family: 'Cormorant Garamond';
+background-color: forestgreen;
+}
+#apps{
+ margin:200px;
+ background-color: #fa5282;
+ height: 900px;
+ width:100%;
+}
+#Games{
+ margin:200px;
+ background-color: #0ba310;
+ height: 900px;
+ width:100%;
+}
+#Chatbot{
+ margin:200px;
+ background-color: #5d87e3;
+ height: 900px;
+ width:100%;
+}
+img{
+ width:400px;
+ height:620px;
+ margin-left: 50px;
+ transition: transform .2s;
+}
+img:hover{
+ transform: scale(0.9);
+}
+.line{
+ width:100px;
+ height:8px;
+ background-color: black;
+ margin:12px auto;
+
+}
